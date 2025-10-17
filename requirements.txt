@@ -1,2 +1,2 @@
-camel-tools[morphology]
+camel-tools
 streamlit
